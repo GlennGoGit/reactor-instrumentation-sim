@@ -32,7 +32,7 @@ Clone this repo and run the simulation script:
 ```bash
 git clone https://github.com/GlennGoGit/reactor-instrumentation-sim.git
 cd reactor-instrumentation-sim
-python control_simulation.py'''
+python control_simulation.py ```
 
 ---
 
