@@ -36,8 +36,12 @@ python control_simulation.py
 ```
 
 ---
-
 ## 🚀 Outcome
 Illustrates the ability to wire systems, interpret signals, and automate responses in a controlled environment.
 
+---
+### 📈 Sample Simulation Output
+Below is a sample chart from the synthetic simulation, showing how temperature and pressure stabilize around setpoints.
+
+![Simulation Output](simulation_output.png)
 
