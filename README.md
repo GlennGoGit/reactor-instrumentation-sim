@@ -33,8 +33,9 @@ Clone this repo and run the simulation script:
 git clone https://github.com/GlennGoGit/reactor-instrumentation-sim.git
 cd reactor-instrumentation-sim
 python control_simulation.py
-
 ---
-🚀 Outcome
+
+## 🚀 Outcome
 
 Illustrates the ability to wire systems, interpret signals, and automate responses in a controlled environment.
+
