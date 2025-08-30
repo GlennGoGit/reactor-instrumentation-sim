@@ -45,3 +45,5 @@ Below is a sample chart from the synthetic simulation, showing how temperature a
 
 ![Simulation Output](simulation_output.png)
 
+---
+👉 [Download PDF version](simulation_output.pdf) for presentations or offline use.
